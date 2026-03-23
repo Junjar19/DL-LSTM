@@ -4,7 +4,7 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
-
+To implement a Named Entity Recognition (NER) system using Python that identifies and classifies named entities in text into predefined categories such as Person, Organization, Location, and Geo-Political Entity (GPE) using a given dataset. The program should preprocess the data, train a model, and predict the entity tags for each word in a sentence.
 
 ## DESIGN STEPS
 ### STEP 1: 
